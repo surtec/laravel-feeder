@@ -9,7 +9,7 @@
 To get the latest version of Laravel Feeder, simply add the following line to the require block of your `composer.json` file.
 
 ```
-"Surtec/laravel-feeder": "1.1.*"
+"surtec/laravel-feeder": "1.0.*"
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.
