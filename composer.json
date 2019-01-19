@@ -1,5 +1,5 @@
 {
-  "name": "surtec/laravel-feeder",
+  "name": "surtec/laravel-feed",
   "type": "library",
   "description": "Laravel 5 Package to extract atom and rss feeds from any website",
   "homepage": "https://github.com/surtec/larevel-feeder",
