@@ -1,6 +1,8 @@
 {
   "name": "Surtec/laravel-feeder",
+  "type": "library",
   "description": "Laravel 5 Package to extract atom and rss feeds from any website",
+  "homepage": "https://github.com/surtec/larevel-feeder",
   "keywords": ["github", "laravel","Open Source","Evangelist", "Feeds", "Atom", "Rss", "laravel 5"],
   "version": "1.0.1",
   "license": "MIT",
@@ -10,13 +12,13 @@
         "email": "mimajado@gmail.com"
       }
   ],
-  "minimum-stability": "stable",
-  "require": {
+   "minimum-stability": "stable",
+    "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "~5.5"
+   "illuminate/support": "~5.5"
   },
   "require-dev": {
-    "phpunit/phpunit": "5.*"
+    "phpunit/phpunit": "^5.7 || ^6.5"
   },
   "autoload": {
         "psr-4": {
